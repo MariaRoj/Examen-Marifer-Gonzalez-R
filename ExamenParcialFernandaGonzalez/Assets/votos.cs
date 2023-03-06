@@ -32,7 +32,7 @@ public class votos : MonoBehaviour
 
     void Mdc()
     {
-        if
+        
     }
             
    
